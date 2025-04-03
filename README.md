@@ -1,2 +1,2 @@
 # Max-exercises
-Exercícios das listas enviadas:
+Alguns xercícios da lista 4 de tecnicas de programação:
